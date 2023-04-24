@@ -4,7 +4,11 @@
    => test_group
    
 2) There are 2 jupyter notebook file
-   => DDM Assignment1
-   => DDM Assignment2
+   => DDM Assignment1 (contain EDA)
+   => DDM Assignment2 (contain Model selection)
    
-3) for every jupyter notebook you need to access the data which are avaible 
+3) for every jupyter notebook you need to access the data which are avaible in data folder
+
+4) keep in mind that you need to analyze data seperately because control group has different experiment and test group has different so 
+   in the code file we analyzed them seperatly.
+
